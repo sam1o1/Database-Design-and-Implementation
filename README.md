@@ -1,5 +1,7 @@
 ## Database Design and Implementation
-Scenario
+
+# Scenario
+
 In this scenario, you have recently been hired as a Data Engineer by a New York based coffee shop chain that is looking to expand
 nationally by opening a number of franchise locations. As part of their expansion process, they want to streamline operations and
 revamp their data infrastructure.
